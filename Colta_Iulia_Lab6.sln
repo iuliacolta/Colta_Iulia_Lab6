@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colta_Iulia_Lab6", "Colta_Iulia_Lab6.csproj", "{C7AB45E4-9F82-4CFD-9D29-4F16ECC83FC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLotModel", "..\AutoLotModel\AutoLotModel.csproj", "{051988D0-2425-4817-9065-F52CC82BDCBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7AB45E4-9F82-4CFD-9D29-4F16ECC83FC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7AB45E4-9F82-4CFD-9D29-4F16ECC83FC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7AB45E4-9F82-4CFD-9D29-4F16ECC83FC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7AB45E4-9F82-4CFD-9D29-4F16ECC83FC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{051988D0-2425-4817-9065-F52CC82BDCBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{051988D0-2425-4817-9065-F52CC82BDCBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{051988D0-2425-4817-9065-F52CC82BDCBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{051988D0-2425-4817-9065-F52CC82BDCBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {510E3539-1DF3-4D4C-A9F4-068F97CDB2E3}
+	EndGlobalSection
+EndGlobal
